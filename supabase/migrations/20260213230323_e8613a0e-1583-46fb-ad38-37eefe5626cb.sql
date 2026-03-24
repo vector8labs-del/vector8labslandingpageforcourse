@@ -1,0 +1,1 @@
+UPDATE public.funnel_settings SET value = '2026-02-20T23:59:59Z', updated_at = now() WHERE key = 'countdown_end';
